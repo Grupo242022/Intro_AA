@@ -4,7 +4,7 @@ Repositorio de respuestas de la materia: Introducción al Aprendizaje Automátic
 
 # **DIPLOMATURA 2022**
 
-# EXPLORACIÓN Y CURACIÓN DE DATOS
+# Introducción al Aprendizaje Automático
 
 ## GRUPO Nº24
 
