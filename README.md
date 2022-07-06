@@ -64,20 +64,17 @@ Nota 1: En la [documentación](https://scikit-learn.org/stable/modules/generated
 ![image](https://user-images.githubusercontent.com/103326439/177621596-0c10a6dd-4b73-4645-bc11-0738bfcd1a73.png)
 
 ### Regresión Lineal Simple:
+   - Seleccionamos al atributo 'RM' como nuestra variable independiente y Target como nuestra variable dependiente. Como resultado:
 ![image](https://user-images.githubusercontent.com/103326439/177621854-c607b739-8653-4c9f-af10-e085ffbfa946.png)
 
 Datos del Modelo:
 --- --- --- --- --- --- --- --- --- --- --- ---
-Valor de la pendiente o coeficiente "a":  [9.37638431]
-Valor de la intersección o coeficiente "b":  -36.476189627647315
---- --- --- --- --- --- --- --- --- --- --- --- 
-Precisión del modelo entrenamiento (Train):
-0.497
---- --- --- --- --- --- --- --- --- --- --- --- 
-Precisión del modelo prueba (Test):
-0.424
---- --- --- --- --- --- --- --- --- --- --- --- 
-Root-Mean-Squared-Error (RMSE):
-Train error: 42.820
-Test error: 46.907
+
+   - [x] Valor de la pendiente o coeficiente "a":  [9.37638431]
+   - [x] Valor de la intersección o coeficiente "b":  -36.476189627647315
+   - [x] Precisión del modelo entrenamiento (Train): 0.497
+   - [x] Precisión del modelo prueba (Test): 0.424
+   - [x] Root-Mean-Squared-Error (RMSE)
+      -  Train error: 42.820
+      -  Test error: 46.907
 
