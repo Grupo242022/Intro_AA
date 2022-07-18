@@ -80,19 +80,29 @@ Datos del Modelo:
 ### Regresión Lineal Polinomial - un solo atributo - modificando grados de polinomio:
 --- --- --- --- --- --- --- --- --- --- --- ---
 - Seleccionamos al atributo 'RM' como nuestra variable independiente y Target como nuestra variable dependiente, variamos el grado del polinomio seleccionando 18 como el que se adecuaba mejor al comportamiento del conjunto. Como resultado:
+
 ![image](https://user-images.githubusercontent.com/103326439/179553479-c139cc71-0f33-4816-b010-c2c344839823.png)
 - Error al variar el polinomio:
+
 ![image](https://user-images.githubusercontent.com/103326439/179553498-4bb6d0ec-b8d7-46a3-bbcd-2926c9f495bf.png)
+
 ----
 ### Regresión Lineal Polinomial - múltiples atributo - modificando grados de polinomio:
 --- --- --- --- --- --- --- --- --- --- --- ---
 - Elegimos los atributos RM, AGE y LSTAT - Target como nuestra variable dependiente. 
 - Error al variar el polinomio:
+
 ![image](https://user-images.githubusercontent.com/103326439/179554662-074dc4c5-6c30-4930-9bcc-78c12b999bb1.png)
+
 ----
 ### Regresión Lineal Polinomial - Todo el Conjunto de datos - modificando grados de polinomio:
 --- --- --- --- --- --- --- --- --- --- --- ---
+- Error al variar el polinomio:
+
 ![image](https://user-images.githubusercontent.com/103326439/179554622-678de98d-67f4-497f-9a0f-3119e2b0f0f2.png)
 
+- Regularización:
+
+![image](https://user-images.githubusercontent.com/103326439/179555161-484d2c35-753b-4f1f-9d10-d09485dd54ee.png)
 
 
